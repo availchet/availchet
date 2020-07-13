@@ -1,6 +1,6 @@
-### Hi, I'm Chetanya! 👋
+### Hi, I'm [Chetanya](https://availchet.github.io)! 👋
 
-> Full-stack Software Engineer | Go + React
+>  💻 Full-stack Software Engineer | Go + React
 
 [![Twitter: @availchet](https://img.shields.io/twitter/follow/availchet?style=social)](https://twitter.com/availchet)
 [![Linkedin: chetanya-kandhari](https://img.shields.io/badge/-Chetanya%20Kandhari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chetanya-kandhari/)](https://www.linkedin.com/in/chetanya-kandhari/)
@@ -12,17 +12,23 @@
 My passion lies in solving challenging problems, designing algorithms, and communicating complex ideas to non-technical stakeholders.
 I always look to exceed expectations and am effective both working as an individual and as part of a team.
 
-In my spare time, I enjoy watching movies, listening to music, reading books, and traveling.
+In my spare time, I enjoy watching movies, listening to music, reading books, and traveling 🚶‍.
 
-I enjoy learning new things and connecting with people across a range of industries.
-If you ever want to bounce ideas off of me, please feel free to reach out.
+I enjoy learning new things and connecting with people across a range of industries. 
+If you ever want to bounce ideas off of me, please feel free to reach out. 😄
 
-#### Skills ⭐️
-- Proficient: Go, React, Node, Docker, Fastlane, SASS, Bash, Git, CI/CD (CircleCI, GitHub Actions, Azure Pipelines), Webpack
-- Knowledgeable: Ansible, Angular, Typescript, Express, React Native,, Botkit, Rasa
-- Familiar: Nginx, Eslint, Prettier, HTML, CSS, JS, C, C++, Java, Prolog, Shell Programming
-- UI Frameworks: Material-UI, Bootstrap
-- Databases: MongoDB, MySQL, PostgreSQL, Gremlin
+####  🎉 Skills  🎉
+- **FrontEnd**: React, Redux, Angular, RxJs, SASS, Webpack
+- **BackEnd**: Go, Node.js, Express
+- **CI/CD**: CircleCI, GitHub Actions, Azure Pipelines
+- **DevOps**: Docker, Ansible, Fastlane, Nginx, Makefile
+- **Mobile**: React Native
+- **Bots**: Botkit, Rasa
+- **UI Frameworks**: Material-UI, Bootstrap
+- **Web technologies**: HTML5, CSS3, ES7+, a11y
+- **Databases**: MongoDB (Mongoose), MySQL, PostgreSQL, Gremlin
+- **Misc**: Git, Eslint, Prettier, Typescript
+- **Languages**: C, C++, Java
 
 ---
 
