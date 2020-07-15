@@ -1,4 +1,4 @@
-### Hi, I'm [Chetanya](https://availchet.github.io)! 👋
+# Hi, I'm [Chetanya](https://availchet.github.io)! 👋
 
 >  💻 Full-stack Software Engineer | Go + React
 
@@ -13,17 +13,16 @@
 My passion lies in solving challenging problems, designing algorithms, and communicating complex ideas to non-technical stakeholders.
 I always look to exceed expectations and am effective both working as an individual and as part of a team.
 
-In my spare time, I enjoy watching movies, listening to music, reading books, and traveling 🚶‍.
+In my spare time, I enjoy travel :walking:, reading :books:, listening to music :headphones: and watching movies :tv:.
 
 I enjoy learning new things and connecting with people across a range of industries. 
 If you ever want to bounce ideas off of me, please feel free to reach out. 😄
 
-#### ⚡ Stats
-![Chetanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=availchet&hide=["issues"]&show_icons=true)
+## ⚡ Stats
 ![Chetanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chetanyakan&hide=["issues"]&show_icons=true)
+![Chetanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=availchet&hide=["issues"]&show_icons=true)
 
-
-####  🎉 Skills  🎉
+##  🎉 Skills  🎉
 - **FrontEnd**: React, Redux, Angular, RxJs, SASS, Webpack
 - **BackEnd**: Go, Node.js, Express
 - **CI/CD**: CircleCI, GitHub Actions, Azure Pipelines
@@ -40,21 +39,3 @@ If you ever want to bounce ideas off of me, please feel free to reach out. 😄
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=availchet.availchet)
 [![HitCount](http://hits.dwyl.com/availchet/availchet.svg)](http://hits.dwyl.com/availchet/availchet)
-
-
-
-
-<!--
-**availchet/availchet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
