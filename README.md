@@ -37,5 +37,4 @@ If you ever want to bounce ideas off of me, please feel free to reach out. 😄
 
 ---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=availchet.availchet)
 [![HitCount](http://hits.dwyl.com/availchet/availchet.svg)](http://hits.dwyl.com/availchet/availchet)
