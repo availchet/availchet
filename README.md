@@ -8,6 +8,7 @@
 [![GitHub: @chetanyakan](https://img.shields.io/github/followers/chetanyakan?label=follow&style=social)](https://github.com/chetanyakan)
 [![Gmail: availchet](https://img.shields.io/badge/Gmail-availchet-red)](mailto:availchet@gmail.com)
 [![Stack Overflow: chetanya](https://img.shields.io/badge/-Stack%20Overflow-222222?logo=stack-overflow&link=https://stackoverflow.com/users/story/6241000)](https://stackoverflow.com/users/story/6241000)
+[![Chetanya Kandhari's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/availchet)
 
 
 My passion lies in solving challenging problems, designing algorithms, and communicating complex ideas to non-technical stakeholders.
