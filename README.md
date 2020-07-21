@@ -12,6 +12,7 @@
 [![Gmail: availchet](https://img.shields.io/badge/Gmail-availchet-red)](mailto:availchet@gmail.com)
 [![Stack Overflow: chetanya](https://img.shields.io/badge/-Stack%20Overflow-222222?logo=stack-overflow&link=https://stackoverflow.com/users/story/6241000)](https://stackoverflow.com/users/story/6241000)
 
+I am a Full stack developer from :house: Gurgaon, India.
 
 My passion lies in solving challenging problems, designing algorithms, and communicating complex ideas to non-technical stakeholders.
 I always look to exceed expectations and am effective both working as an individual and as part of a team.
