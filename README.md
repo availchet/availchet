@@ -12,15 +12,16 @@
 [![Gmail: availchet](https://img.shields.io/badge/Gmail-availchet-red)](mailto:availchet@gmail.com)
 [![Stack Overflow: chetanya](https://img.shields.io/badge/-Stack%20Overflow-222222?logo=stack-overflow&link=https://stackoverflow.com/users/story/6241000)](https://stackoverflow.com/users/story/6241000)
 
-I am a Full stack developer from :house: Gurgaon, India.
+---
 
-My passion lies in solving challenging problems, designing algorithms, and communicating complex ideas to non-technical stakeholders.
-I always look to exceed expectations and am effective both working as an individual and as part of a team.
+I have over 3 years of experience working as a software engineer.
+My passion lies in solving challenging problems, designing systems, and communicating complex ideas to non-technical stakeholders.
+I always look forward to exceeding expectations and I am effective both working as an individual and as part of a team.
 
 In my spare time, I like to travel :walking:, read :books:, listen to music :headphones: and watch movies :tv:.
 
-I enjoy learning new things and connecting with people across a range of industries. 
-If you ever want to bounce ideas off of me, please feel free to reach out. 😄
+I enjoy trying out emerging technologies and connecting with people across a wide range of backgrounds. 
+If you ever want to bounce ideas off of me or even just have a chat about my favorite anime, please feel free to reach out. 😄
 
 ## ⚡ Stats
 ![Chetanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chetanyakan&hide=["issues"]&show_icons=true)
@@ -39,4 +40,3 @@ If you ever want to bounce ideas off of me, please feel free to reach out. 😄
 - **Misc**: Git, Eslint, Prettier, Typescript
 - **Languages**: C, C++, Java
 
----
