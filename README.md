@@ -40,5 +40,3 @@ If you ever want to bounce ideas off of me, please feel free to reach out. 😄
 - **Languages**: C, C++, Java
 
 ---
-
-[![HitCount](http://hits.dwyl.com/availchet/availchet.svg)](http://hits.dwyl.com/availchet/availchet)
