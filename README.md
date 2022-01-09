@@ -25,7 +25,6 @@ If you ever want to bounce ideas off of me or even just have a chat about my fav
 
 ## ⚡ Stats
 ![Chetanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chetanyakan&hide=["issues"]&show_icons=true)
-![Chetanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=availchet&hide=["issues"]&show_icons=true)
 
 ##  🎉 Skills  🎉
 - **FrontEnd**: React, Redux, Angular, RxJs, SASS, Webpack
